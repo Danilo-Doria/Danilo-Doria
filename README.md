@@ -7,7 +7,12 @@
 I'm **Danilo Andres Doria Diaz**, an **Industrial Engineer** currently improving my skills as a **Software Developer**. My goal is to become a **Full-Stack Developer** and build useful and high-quality software.
 
 <h2 align="center">🚀 Technologies & Tools</h2>
-<p align="center">🐍 Python | Git | GitHub</p>
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git,github,python&perline=8" alt="Core Technologies"/>
+  </a>
+</p>
 
 <h2 align="center">🙋🏻 About me</h2>
 
