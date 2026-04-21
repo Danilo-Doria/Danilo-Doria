@@ -4,12 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Full+Stack+Developer;Tech+Enthusiast" />
 </p>
 
-<p align="center">
-  I'm **Danilo Andres Doria Diaz**, an **Industrial Engineer** currently improving my skills as a **Software Developer**. My
-  goal is to become a **Full-Stack Developer** and build useful and high-quality software.
-</p>
+I'm **Danilo Andres Doria Diaz**, an **Industrial Engineer** currently improving my skills as a **Software Developer**. My
+goal is to become a **Full-Stack Developer** and build useful and high-quality software.
 
-<h2>🚀 Technologies & Tools</h2>
+---
+
+<h3 align="center">🚀 Technologies & Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
@@ -17,25 +17,25 @@
   </a>
 </p>
 
-<h2>🙋🏻 About me</h2>
+---
 
-<p>
-  I am 24 years old and I am from Colombia, since I was a child, I have always been fascinated by everything related to
-  technology, computers, and video games.<br>
-  
-  You could say that my first contact with programming was at school, where I saw HTML for the first time. Later on in
-  college, while studying industrial engineering, I entered the world of programming with C++ and later took a course in data
-  cleaning and visualization with Python and Power BI.<br>
-</p>
+<h3 align="center">🙋🏻 About me</h3>
 
-<h2>🕹️ Hobbies</h2>
+I am 24 years old and I am from Colombia, since I was a child, I have always been fascinated by everything related to technology, computers, and video games.<br> <br>
+You could say that my first contact with programming was at school, where I saw HTML for the first time. Later on in college, while studying industrial engineering, I entered the world of programming with C++ and later took a course in data cleaning and visualization with Python and Power BI.
+
+---
+
+<h3 align="center">🕹️ Hobbies</h3>
 
 <p>
   I love playing videogames, watching movies, series and anime. In the future, I would also like to create a 2D or 3D video
   game as a personal project.
 </p>
 
-<h2>📊 GitHub Stats</h2>
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github.com/Danilo-Doria" target="_blank">
@@ -63,7 +63,9 @@
   </a>
 </div>
 
-<h2 align="center">🌐 Connect with me</h2>
+---
+
+<h3 align="center">🌐 Connect with me</h2>
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/danilodd/" target="_blank">
