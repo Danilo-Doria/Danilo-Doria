@@ -13,7 +13,7 @@ goal is to become a **Full-Stack Developer** and build useful and high-quality s
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,python&perline=8" alt="Core Technologies"/>
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,python&perline=8" alt="Core Technologies"/>
   </a>
 </p>
 
