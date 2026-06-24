@@ -39,10 +39,8 @@ You could say that my first contact with programming was at school, where I saw 
 
 <div align="center">
   <a href="https://github.com/Danilo-Doria" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Danilo-Doria&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Danilo-Doria's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Danilo-Doria&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="Danilo-Doria's GitHub Stats" width="46%" />
   </a>
-  
-  <br>
   
   <a href="https://github.com/Danilo-Doria" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danilo-Doria&theme=tokyonight&locale=en&hide_border=true" alt="Danilo-Doria's Streak" width="49%" />
