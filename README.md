@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hi, I'm Danilo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Full+Stack+Developer;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Future+Full+Stack+Developer;Tech+Enthusiast;Back-End+Developer" />
 </p>
 
 I'm **Danilo Andres Doria Diaz**, an **Industrial Engineer** currently improving my skills as a **Software Developer**. My
@@ -13,7 +13,7 @@ goal is to become a **Full-Stack Developer** and build useful and high-quality s
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,vite,html,css,tailwind,js,java&perline=8" alt="Core Technologies"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vite,html,css,tailwind,js,java,spring,postgres,docker&perline=8" alt="Core Technologies"/>
   </a>
 </p>
 
@@ -21,16 +21,17 @@ goal is to become a **Full-Stack Developer** and build useful and high-quality s
 
 <h3 align="center">🙋🏻 About me</h3>
 
-I am 24 years old and I am from Colombia, since I was a child, I have always been fascinated by everything related to technology, computers, and video games.<br> <br>
-You could say that my first contact with programming was at school, where I saw HTML for the first time. Later on in college, while studying industrial engineering, I entered the world of programming with C++ and later took a course in data cleaning and visualization with Python and Power BI.
+Software Developer in training passionate about building scalable and efficient software solutions. Currently developing my skills in Java and Spring Boot, with knowledge of HTML5, Tailwind CSS, JavaScript, SQL Databases, Git, REST APIs, object-oriented programming.
+
+I enjoy solving problems, learning new technologies, and building projects that improve my technical skills. I am seeking an opportunity to grow as a Java Backend Developer, where I can contribute, gain hands-on experience, and continue developing as a software engineer.
 
 ---
 
 <h3 align="center">🕹️ Hobbies</h3>
 
 <p>
-  I love playing videogames, watching movies, series and anime. In the future, I would also like to create a 2D or 3D video
-  game as a personal project.
+  Beyond coding, I'm an avid fan of video games, cinema, and anime. My passion for interactive media and storytelling constantly inspires me, and I am currently planning to channel that creativity 
+  into developing my own 2D/3D indie game as a future personal project."
 </p>
 
 ---
